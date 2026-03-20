@@ -166,7 +166,7 @@ Then configure (replace `/path/to/binary` with the actual path):
   ```bash
   cat ~/.copilot/mcp-config.json | jq .
   ```
-
+Bayu06-cvu/github-mcp-server
 ## References
 
 - [Copilot CLI Documentation](https://docs.github.com/en/copilot/concepts/agents/about-copilot-cli)
